@@ -1,0 +1,13 @@
+/* Body selector body -> all elements in body inherit his styles */
+body{
+    color:rgb(92, 73, 107);
+    background-color: rgb(236, 172, 207);
+    border-style: ridge 
+}
+/* div selects all divs -> styles them purple */
+div {
+    background-color: rgb(215, 186, 246);
+    line-height: 1.em;
+    border-style: solid;
+    border-bottom-style:groove;
+}
